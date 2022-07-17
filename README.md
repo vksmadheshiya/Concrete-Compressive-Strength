@@ -17,8 +17,10 @@ Just to check
 ## Setting Up Heroku
 
 1. HEROKU_EMAIL = VKSMDAHESHIYA
-2. HEROKU_API_KEY = 30e141f6-f4eb-4b1c-b684-b5ff95b243d6
+2. HEROKU_API_KEY = 30e141f6-****-4b1c-b684-b5ff95b243d6
 3. HEROKU_APP_NAME = concretes-compressive-strength
+
+<!-- f4eb -->
 
 BUILD DOCKER IMAGE
 ```

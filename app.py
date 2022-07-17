@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=["Get", "Post"])
 def index():
-    return "Starting ML Project"
+    return "Starting ML Project and Completed CI/CD pipelines"
 
 
 if __name__=="__main__":
