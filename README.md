@@ -4,7 +4,7 @@ Predicting the Concrete Compressive Strength based on keggle data set
 
 Created conda environment
 ```
-conda create -p venv -y
+conda create -p venv python==3.7 -y
 ```
 ```
 conda activate venv/
