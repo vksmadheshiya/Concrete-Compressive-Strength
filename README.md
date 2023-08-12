@@ -13,7 +13,7 @@ conda activate venv/
 Just to check 
 ```
 
-https://concrete-compressive-strength-prediction-vksmadheshiya.streamlit.app/
+Check Here [Deployed Link](https://vksmadheshiya-github-automated-analysis-main-ywgobj.streamlit.app/)
 
 ## Setting Up Heroku
 
